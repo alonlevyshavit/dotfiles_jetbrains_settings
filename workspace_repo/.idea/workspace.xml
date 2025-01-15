@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d5f3b71-a076-46af-8a64-4a461601f7d1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "f24f7ae5"
+}]]></component>
+  <component name="ProjectId" id="2rfFYjBmQTSdiJYBKBJ8HYnrGH2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="Pull Requests" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.5716495" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Endpoints" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5f3b71-a076-46af-8a64-4a461601f7d1" name="Changes" comment="" />
+      <created>1736942272550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736942272550</updated>
+      <workItem from="1736942274278" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/libs/common/ai/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/ai/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/ai/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/ai/chat-bot/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/ai/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/ai/form-wrapper-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/ai/generator-panel/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/core/mobile/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/core/core-services/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/core/core-services/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/core/core-services/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/core/external-user/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/core/external-user/feature/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/core/external-user/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/graphs/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-grid/bob-grid-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-grid/bob-grid-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-calendar/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-benchmarks/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-benchmarks/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-benchmarks/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/form-generator/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-folders-view/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-folders-view/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-header-layout/header-layout/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-header-layout/header-layout-types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/folders-view-grid-cards/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/folders-view-grid-cards/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/bob-products/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/bob-products/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/bob-products/lms-routing/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/bob-products/shared-routing/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/bob-products/talent-routing/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/bob-products/payroll-routing/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/bob-products/compensation-routing/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/routing-modules-indexes/lms/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/routing-modules-indexes/wfp/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/routing-modules-indexes/core/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/routing-modules-indexes/hiring/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/routing-modules-indexes/talent/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/routing-modules-indexes/payroll/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/routing-modules-indexes/compensation/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/routing-modules-indexes/shared-common/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/bob-products/routing-modules-indexes/system-settings/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/badges/settings/badges/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/badges/badges-new/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/badges/badges-new/mocks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/badges/badges-new/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/badges/badges-new/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/settings/compensation-equity-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/settings/fields-and-attributes-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/employee-map/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/employee-common/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/employee-fields/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/employee-fields/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/employee-fields/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/employee-profile/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/custom-translations/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/custom-translations/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/custom-translations/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/employee-fields-settings/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/employee-settings-metadata-audit/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/people/employee-settings-metadata-audit/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/reports/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/docs/document-template-editor/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/home/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/home/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/home/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/internal/time-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/internal/time-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/working-pattern/working-pattern-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/working-pattern/working-pattern-shared/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/working-pattern/working-pattern-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/groups/groups-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/mocks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/shared/learning-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/shared/learning-types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/settings/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/settings/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/settings/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/settings/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/my-learning/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/my-learning/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/my-learning/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/my-learning/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/learning-paths/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/learning-paths/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/learning-paths/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings/feature/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/integrations/integrations-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/form-builder/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/talent-group/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/performance-calibration/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/performance-calibration/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/mocks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/reports/reports/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/mocks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/pay-details/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/integrations/integrations/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/objects/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/timeline-new/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/timeline-new/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/mocks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/ats/pipeline/activities/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/ats/pipeline/activities/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/ats/pipeline/candidate-checks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/crm/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/crm/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/crm/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/crm/candidate-listing/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/crm/candidate-profile/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/mobile/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/settings/wallet-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hire-flow/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hire-flow/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hire-flow/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hiring-common/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hiring-common/store/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hiring-common/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/career-site-editor/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/career-site-editor/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/benchmark/settings/bob-benchmark/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/development/shared/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/development/career-path-tree/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/development/career-path-tree/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/development/career-path-tree/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/development/career-path-tree/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/general/employee/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/general/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/general/bob-features-shared/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/metadata/bob-entities/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/metadata/bob-entities/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/metadata/bob-entities/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/metadata/filter-shared/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/wfp/settings/currencies/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/wfp/settings/wfp-positions-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/docs/esign/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/docs/esign/feature/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/docs/document-template-editor/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/docs/document-template-editor/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/docs/document-template-editor/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/docs/document-template-editor/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/kpis/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/gap-analysis/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/gap-analysis/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/analytics-dei/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/analytics-dei/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/analytics-dei/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/kpis-settings/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/dashboard-wrapper/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/dashboard-wrapper/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/analytics/dashboard-wrapper/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/attendance/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/attendance/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/attendance/ee-attendance/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/attendance/ppl-changeover-periods/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/time-external-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/flows/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/flows/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/flows/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/flows/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/flows/settings/flows-features-settings/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/flows/flows-shared/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/flows/flows-shared/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/flows/flows-shared/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/flows/flows-shared/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks-shared/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks-shared/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks-shared/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks-shared/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks-settings/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/api-audit/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/my-company/my-company-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/my-company/my-company-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/import-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/permissions/permission-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/permissions/permission-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/ip-trust-list/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/account-access/account-access-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/account-access/account-access-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/data-retention/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/manage-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/import-wizard-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/personalization-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/company-feature-toggles-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/bob-features/bob-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/settings/settings-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/settings/settings-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/settings/settings-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/setup-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/setup-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/common-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/platform/bob-style/ai/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/platform/bob-feature-toggles/bob-feature-toggles-common/jest.config.js" />
+      </list>
+    </option>
+  </component>
+</project>

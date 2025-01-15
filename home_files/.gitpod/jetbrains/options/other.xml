@@ -1,0 +1,42 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="51338" />
+  <component name="NotRoamableUiSettings">
+    <option name="ideAAType" value="Greyscale" />
+    <option name="editorAAType" value="Greyscale" />
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "GeneralSettings.initiallyConfigured": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
+    "evlsprt3.243": "6",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.22562.222",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "input.method.disabler.muted": "true",
+    "llm.installer.activate.toolwindow.delayed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "previousColorScheme": "_@client_Dark",
+    "registry.to.advanced.settings.migration.build": "WS-243.22562.222",
+    "rider.trace.scenarios": "",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
