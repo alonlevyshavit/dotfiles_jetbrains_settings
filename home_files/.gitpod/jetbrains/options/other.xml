@@ -1,5 +1,6 @@
 <application>
   <component name="BuiltInServerOptions" builtInServerPort="51338" />
+  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
   <component name="NotRoamableUiSettings">
     <option name="ideAAType" value="Greyscale" />
     <option name="editorAAType" value="Greyscale" />

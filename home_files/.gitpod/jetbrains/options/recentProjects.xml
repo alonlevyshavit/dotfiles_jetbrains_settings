@@ -4,11 +4,15 @@
       <map>
         <entry key="/workspace/hibob-web-client">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2rfFYjBmQTSdiJYBKBJ8HYnrGH2">
-              <option name="activationTimestamp" value="1736942559129" />
+            <RecentProjectMetaInfo frameTitle="hibob-web-client" opened="true" projectWorkspaceId="2rfFYjBmQTSdiJYBKBJ8HYnrGH2">
+              <option name="activationTimestamp" value="1736942613679" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-243.22562.222" />
               <option name="buildTimestamp" value="1734511740000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo customColor="f24f7ae5" />
+              </option>
+              <frame x="164" y="58" width="1400" height="970" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1736942272626" />
             </RecentProjectMetaInfo>
