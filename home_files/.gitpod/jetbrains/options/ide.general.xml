@@ -7,5 +7,6 @@
     <entry key="enable.connection.configuration.widget" value="false" />
     <entry key="ide.text.fractional.metrics" value="[Auto|Disabled|Enabled*]" />
     <entry key="editor.text.fractional.metrics" value="[Auto|Disabled|Enabled*]" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
 </application>
