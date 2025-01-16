@@ -32,7 +32,7 @@ current_dir="$(cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd)"
 install_dotfiles "${current_dir}/home_files" "${HOME}"
 install_dotfiles "${current_dir}/workspace_repo" "${GITPOD_REPO_ROOT}"
 
-# override configuration files stored in /home_files
+# Link custom Zsh configuration
 for FILE in $HOME_FILES_DIR/*(DN); do
     FILE_NAME=$FILE:t
     TARGET_FILE="${HOME}/${FILE_NAME}"
