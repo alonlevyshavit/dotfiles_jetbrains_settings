@@ -1,6 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="51338" />
-  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
+  <component name="FileEditorProviderManager">{}</component>
   <component name="NotRoamableUiSettings">
     <option name="ideAAType" value="Greyscale" />
     <option name="editorAAType" value="Greyscale" />
@@ -16,14 +15,17 @@
     "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
     "evlsprt3.243": "6",
     "experimental.ui.on.first.startup": "true",
+    "experimental.ui.switch": "true",
     "experimental.ui.used.version": "243.22562.222",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
     "input.method.disabler.muted": "true",
     "llm.installer.activate.toolwindow.delayed": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
-    "previousColorScheme": "_@client_Dark",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "WS-243.22562.222",
     "rider.trace.scenarios": "",
     "ts.lib.d.ts.version": "5.4.3"
