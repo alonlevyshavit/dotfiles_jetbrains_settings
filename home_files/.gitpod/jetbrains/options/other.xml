@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="50035" />
+  <component name="BuiltInServerOptions" builtInServerPort="51405" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="NotRoamableUiSettings">
     <option name="ideAAType" value="Greyscale" />
@@ -16,7 +16,6 @@
     "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
     "evlsprt3.243": "6",
     "experimental.ui.on.first.startup": "true",
-    "experimental.ui.switch": "true",
     "experimental.ui.used.version": "243.22562.222",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
