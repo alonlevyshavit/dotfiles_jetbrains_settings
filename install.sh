@@ -33,12 +33,12 @@ install_dotfiles "${current_dir}/home_files" "${HOME}"
 install_dotfiles "${current_dir}/workspace_repo" "${GITPOD_REPO_ROOT}"
 
 # Link custom Zsh configuration
-for FILE in $HOME_FILES_DIR/*(DN); do
-    FILE_NAME=$FILE:t
-    TARGET_FILE="${HOME}/${FILE_NAME}"
-    printf 'Installing dotfiles symlink %s\n' "${TARGET_FILE}"
-    ln -sf $FILE $TARGET_FILE
-done
+if test -d "${ZSH_CUSTOM_DIR}"; then
+    printf 'Linking custom Zsh configuration to %s\n' "${ZSH_CUSTOM_DIR}/custom-zsh-config.zsh"
+    ln -sf "${DOTFILES_DIR}/custom-zsh-config.zsh" "${ZSH_CUSTOM_DIR}/custom-zsh-config.zsh"
+else
+    printf 'Zsh custom directory does not exist: %s\n' "${ZSH_CUSTOM_DIR}"
+fi
 
 # Link commitjb binary if it does not exist
 if test ! -e /usr/bin/commitjb; then
