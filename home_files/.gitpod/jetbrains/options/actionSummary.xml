@@ -3,14 +3,38 @@
     <e n="$SelectAll">
       <i c="1" l="1736942830001" />
     </e>
+    <e n="$Undo">
+      <i c="3" l="1737019376242" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="5" l="1737019391846" />
+    </e>
     <e n="EditorCopy">
       <i c="1" l="1736942830269" />
     </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1737019397195" />
+    </e>
     <e n="EditorDown">
-      <i c="2" l="1736942663019" />
+      <i c="5" l="1737019388354" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1737019373328" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="3" l="1737019395400" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="2" l="1737019388693" />
+    </e>
+    <e n="EditorTab">
+      <i c="4" l="1737019396273" />
     </e>
     <e n="EditorUp">
-      <i c="1" l="1736942662549" />
+      <i c="2" l="1737019387753" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1737019386131" />
     </e>
     <e n="OpenFile">
       <i c="2" l="1736942736113" />

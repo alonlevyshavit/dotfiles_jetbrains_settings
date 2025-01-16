@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="51405" />
+  <component name="BuiltInServerOptions" builtInServerPort="51111" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="NotRoamableUiSettings">
     <option name="ideAAType" value="Greyscale" />
@@ -25,7 +25,7 @@
     "llm.installer.activate.toolwindow.delayed": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
     "migrated.non.roamable.values.from.general.settings": "true",
-    "previousColorScheme": "_@client_Darcula",
+    "previousColorScheme": "_@client_Dark",
     "registry.to.advanced.settings.migration.build": "WS-243.22562.222",
     "rider.trace.scenarios": "",
     "ts.lib.d.ts.version": "5.4.3"
